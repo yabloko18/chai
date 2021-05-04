@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["donate"],{8125:function(n,t,e){"use strict";e.r(t);var o=function(){var n=this,t=n.$createElement,e=n._self._c||t;return e("main",{staticClass:"content"},[n._v(" Donate ")])},a=[],c={name:"Donate",components:{},methods:{},computed:{},mounted:function(){}},s=c,u=e("2877"),i=Object(u["a"])(s,o,a,!1,null,"8fa5a7d8",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=donate.e74521c1.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["business"],{e349:function(n,e,s){"use strict";s.r(e);var t=function(){var n=this,e=n.$createElement,s=n._self._c||e;return s("main",{staticClass:"content"},[n._v(" business ")])},o=[],u={name:"business",components:{},methods:{},computed:{},mounted:function(){}},c=u,i=s("2877"),a=Object(i["a"])(c,t,o,!1,null,"51f820df",null);e["default"]=a.exports}}]);
+//# sourceMappingURL=business.a9903974.js.map
